@@ -3,6 +3,7 @@
 ## Examples of my work.
 
 * [Capture](https://youtu.be/30xvRLjY0jU)
+
 This video shows me running through a session with 'Capture'.
 Captures purpose is to prompt and guide the athletes through a very speficic series of musculo-skeletal movements and record their 3D body geometry as they do so, for further analysis.
 I was the lead programmer on this project.
