@@ -2,13 +2,12 @@
 
 ## Examples of my work.
 
-* [Capture](https://youtu.be/30xvRLjY0jU)
+* [Capture](https://youtu.be/30xvRLjY0jU) Kitman Labs Capture prompts and guides athletes through a very specific series of musculo-skeletal movements and records their 3D body geometry as they do so. This data is then used in  statistical analysis for the purpose of injury prevention.
+I was the lead programmer for the Capture client.  
 
-This video shows me running through a session with 'Capture'.
-Captures purpose is to prompt and guide the athletes through a very speficic series of musculo-skeletal movements and record their 3D body geometry as they do so, for further analysis.
-I was the lead programmer on this project.
+* [Liquid Physics 2D](https://youtu.be/9qU3aVAADZY) 
 
-* [Liquid Physics 2D](https://youtu.be/30xvRLjY0jU)
+* [TapTapTapTapTap](https://youtu.be/D9OVPMaNwfY) A simple mobile arcade game I am currently developing.
 
 ## Background.
 
