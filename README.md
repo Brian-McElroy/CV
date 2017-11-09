@@ -1,4 +1,4 @@
-# Brian McElroy CV
+# Brian McElroy
 
 ## Examples of my work.
 
