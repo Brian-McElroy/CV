@@ -26,7 +26,7 @@ Currently I am making my own games entirely by myself (design, code, art, audio)
 
 In my game dev career many of the projects I worked on involved novel problems, for which I successfully implemented groundbreaking solutions. Based on my past experiences and performance, I feel happy to take on any challenge.
 
-When it comes to writing any kind of software my approach is to attain the maximum maintainability through clear and well-ordered architecture.
+When it comes to writing any kind of software, my approach is to attain the maximum maintainability through clear and well-ordered architecture.
 
 I have experience working in an enviromnent using the latest good software writing practices. Git, Scrum, Peer review, testing.  
 
