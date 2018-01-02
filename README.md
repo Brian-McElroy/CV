@@ -13,7 +13,7 @@
 	
 * [Wave Master](https://youtu.be/F8nCd9Dje20)
 
-	A simple educational game which teaches about the properties of waves I made for Legends of Learning.
+	A simple educational game which teaches about the properties of waves I made for [Legends of Learning.](https://www.legendsoflearning.com/)
 	
 * [TapTapTapTapTap](https://youtu.be/D9OVPMaNwfY)
 
