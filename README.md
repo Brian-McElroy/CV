@@ -11,6 +11,10 @@
 	
 	Liquid Physics 2D was a plugin asset for Unity I wrote which allowed developers to easily implement highly optimised 2D particle phsyics in their games. 
 	
+* [Wave Master](https://youtu.be/F8nCd9Dje20)
+
+	A simple educational game which teaches about the properties of waves I made for Legends of Learning.
+	
 * [TapTapTapTapTap](https://youtu.be/D9OVPMaNwfY)
 
 	A simple mobile arcade game I am currently developing.
