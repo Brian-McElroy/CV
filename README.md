@@ -15,9 +15,13 @@
 
 	A simple educational game which teaches about the properties of waves I made for [Legends of Learning.](https://www.legendsoflearning.com/)
 	
+* [LazerGrrl](https://youtu.be/2v2QToOUFO4)
+
+	An online multiplayer WebGL game I am currently making with a small team.
+	
 * [TapTapTapTapTap](https://youtu.be/D9OVPMaNwfY)
 
-	A simple mobile arcade game I am currently developing.
+	A simple mobile arcade game I made which is at the pre-release stage.
 
 ## Background.
 
