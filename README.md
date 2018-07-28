@@ -1,6 +1,6 @@
 # Brian McElroy
 
-## Examples of my work.
+## Some examples of my work.
 
 * [Capture](https://youtu.be/30xvRLjY0jU)
 
