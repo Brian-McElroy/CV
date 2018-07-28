@@ -15,7 +15,7 @@
 
 	A simple educational game which teaches about the properties of waves I made for [Legends of Learning.](https://www.legendsoflearning.com/)
 	
-* [LazerGrrl](https://youtu.be/2v2QToOUFO4)
+* [LazerGrrl](https://youtu.be/_WLBqEOzKkc)
 
 	An online multiplayer WebGL game I am currently making with a small team.
 	
@@ -26,7 +26,7 @@
 ## Background.
 
 I have a degree in architecture, and have worked as an architect.
-In 2013 I got a higher diploma in computing and began my career in game programming.
+In 2013 I got a level 8 higher diploma in computing and began my career in game programming.
 I worked as a lead dev for 'Physical Liquid' and 'Kitman Labs'.
 Currently I am making my own games entirely by myself (design, code, art, audio), and also doing the odd bit of contract work. 
 
