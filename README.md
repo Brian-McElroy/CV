@@ -4,7 +4,7 @@
 
 * [Capture](https://youtu.be/30xvRLjY0jU)
 
-   [Kitman Labs] (https://www.kitmanlabs.com/)Capture prompts and guides athletes through a very specific series of musculo-skeletal movements and records their 3D body geometry as they do so. This data is then used in  statistical analysis for the purpose of injury prevention.
+   [Kitman Labs](https://www.kitmanlabs.com/) Capture prompts and guides athletes through a very specific series of musculo-skeletal movements and records their 3D body geometry as they do so. This data is then used in  statistical analysis for the purpose of injury prevention.
    I was the lead programmer for the Capture client.  
    
 * [Liquid Physics 2D](https://youtu.be/9qU3aVAADZY) 
