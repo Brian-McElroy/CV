@@ -15,7 +15,7 @@
 
 	A simple educational game which teaches about the properties of waves I made for [Legends of Learning.](https://www.legendsoflearning.com/)
 	
-* [LazerGrrl](https://youtu.be/_WLBqEOzKkc)
+* [LazerGrrl](https://youtu.be/Zr0A8VcBnYk)
 
 	An online multiplayer WebGL game I am currently making with a small team.
 	
