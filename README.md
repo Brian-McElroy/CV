@@ -34,7 +34,11 @@ Currently I am making my own games entirely by myself (design, code, art, audio)
 
 In my game dev career many of the projects I worked on involved novel problems, for which I successfully implemented groundbreaking solutions. Based on my past experiences and performance, I feel happy to take on any challenge.
 
-When it comes to writing any kind of software, my approach is to attain the maximum maintainability, through modularity, and clear software architecture.
+When it comes to writing any kind of software, my approach is to attain the maximum maintainability, through modularity, clear software architecture, and simply *always* following the fundamentals : tiny methods, tiny classes, avoid duplication, avoid coupling.
+With this approach my productivty remains constant and predictable as new features are added.
+
+Good communication is key to a successful software project. On a team, I am a clear and frequent communicator. It is much better to over-communicate than to under-communicate.
+As an architect, I was trained to present my ideas, and *sell* them to the team.
 
 I have experience working in an enviromnent using the latest good software writing practices. Git, Scrum, Peer-review, Testing, Documentation.  
 
