@@ -34,7 +34,7 @@ In 2013 I got a level 8 higher diploma in computing and began my career in game 
 I worked as a lead dev for 'Physical Liquid' and 'Kitman Labs'.
 Currently I am making my own games entirely by myself (design, code, art, audio), and also doing the odd bit of contract work. 
 
-## Skills
+## Skills.
 
 In my game dev career many of the projects I worked on involved novel problems, for which I successfully implemented groundbreaking solutions. Based on my past experiences and performance, I feel happy to take on any challenge.
 
@@ -46,15 +46,15 @@ As an architect, I was trained to present my ideas, and *sell* them to the team.
 
 I have experience working in an enviromnent using the latest good software writing practices. Git, Scrum, Peer-review, Testing, Documentation.  
 
-My core skills are..
+My core skills are...
 
-* Game design
-* Game programming
-* Project Management
-* Unity expert
+* Game design.
+* Game programming.
+* Unity expert.
 
-I also have some competence in the following..
+I also have some competence in the following...
 
+* Project management.
 * Creating 2D art for games in Illustrator / Photoshop.
 * Creating sound effects and music for games.
 * Creating 3D meshes for games.
