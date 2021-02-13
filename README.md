@@ -38,7 +38,7 @@
 I have a degree in architecture, and have worked as an architect.
 In 2013 I got a level 8 higher diploma in computing and began my career in game programming.
 I worked as a lead dev for 'Physical Liquid' and 'Kitman Labs'.
-Currently, I am making my own indie games with the artist [Pablo Bredow](http://www.pablobredow.com/) as 'Sangen.Games' 
+Currently, I am making my own indie games with the artist [Pablo Bredow](http://www.pablobredow.com/) as [Sangen.Games](https://sangen.games/#/)
 
 ## Skills.
 
