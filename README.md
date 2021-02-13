@@ -29,7 +29,7 @@
 	
 * make a square 
 
-	[Android](https://play.google.com/store/apps/details?id=com.SandwichGeneration.MakeASquare&hl=en_US&gl=US)  .  [iOS](https://apps.apple.com/us/app/make-a-square/id1495772847)	
+	[Android](https://play.google.com/store/apps/details?id=com.SandwichGeneration.MakeASquare&hl=en_US&gl=US)  .  [iOS](https://apps.apple.com/us/app/make-a-square/id1495772847)  	
 	An incredibly elegant puzzle game. I'm quite proud that I discovered an original game that seems so *fundamental*.
 	This theme of minimalism is carried through by the beautiful and serene graphics, UI, and audio.
 
