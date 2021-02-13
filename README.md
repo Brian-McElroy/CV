@@ -26,6 +26,11 @@
 * [TapTapTapTapTap](https://youtu.be/D9OVPMaNwfY)
 
 	A simple mobile arcade game I made which is at the pre-release stage.
+	
+* make a square [Android](https://play.google.com/store/apps/details?id=com.SandwichGeneration.MakeASquare&hl=en_US&gl=US) [iOS](https://apps.apple.com/us/app/make-a-square/id1495772847)
+
+	An incredibly elegant puzzle game. I'm quite proud that I discovered an original game that seems so *fundamental*.
+	This theme of minimalism is carried through by the beautiful and serene graphics, UI, and audio.
 
 ## Background.
 
@@ -38,8 +43,8 @@ Currently, I am making my own indie games with the artist [Pablo Bredow](http://
 
 In my game dev career many of the projects I worked on involved novel problems, for which I successfully implemented groundbreaking solutions. Based on my past experiences and performance, I feel happy to take on any challenge.
 
-When it comes to writing any kind of software, my approach is to attain the maximum maintainability, through modularity, and simply *always* following the fundamentals : tiny methods, tiny classes, avoid duplication, avoid coupling.
-With this approach my productivty remains constant and predictable as new features are added.
+When writing software, my default approach is to optimise for code-maintainability above everything else. I achieve this by always writing code in small, independant, re-usable, and testable modules.
+With this approach, my productivty remains constant and predictable over the lifetime of the project, as features are removed, added, or changed.
 
 Good communication is key to a successful software project. On a team, I am a clear and frequent communicator. It is much better to over-communicate than to under-communicate.
 As an architect, I was trained to present my ideas, and *sell* them to the team.
