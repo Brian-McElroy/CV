@@ -52,8 +52,8 @@
 		
 ## Background.
 
-I have a degree in architecture, and have worked as an architect.
-In 2013 I got a level 8 higher diploma in computing and began my career in game programming.
+I have a level 8 bachelor's degree in architecture from DIT, and have worked as an architect.
+In 2013 I got a level 8 higher diploma in computing from DIT and began my career in game programming.
 I worked as a lead dev for 'Physical Liquid' and 'Kitman Labs'.
 Currently, I do contracts and make my own games for fun.
 
