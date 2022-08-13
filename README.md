@@ -3,11 +3,13 @@
 ## Some examples of my work.
 
 * KnowCLT
+
 	[Android](https://play.google.com/store/apps/details?id=com.POTIONSPIXELS.KnowCLT&gl=US)  .  [iOS](https://apps.apple.com/us/app/knowclt/id1574549739)<br/>	
 	I made this app as a contractor with a small team I assembled. The client was the [Levine museum in the city of Charlotte, North Carolina.](https://www.museumofthenewsouth.org/)
 	The app uses AR to accurately fit historical images over modern day reality, and it also guides users to the sites via a GPS map. The app has its own content management system that the museum staff can use to update the content within it. The app also has some social features, for example users can like, share, and comment on the content. We also gamified the app, there are achievements, and users can win discounts and freebies in real world businesses in the area.
 
 * Trash Dash CLT
+
 	[Android](https://play.google.com/store/apps/details?id=com.PotionsAndPixels.TrashTruckers)  .  [iOS](https://apps.apple.com/us/app/trash-dash-clt/id1561390973)<br/>	
 	I made this game as a contractor with a small team I assembled. The client was the trash department of the city of Charlotte, North Carolina.
 	The purpose of the game was to educate the public about what the trash department does and what struggles they face. As well as having to design a fun game, I also had to ensure that the game was on-message, these extra constraints made the design process challenging but the result was a success.
