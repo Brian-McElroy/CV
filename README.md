@@ -31,7 +31,7 @@
 * Liquid Physics 2D
 	
 	[Video](https://youtu.be/9qU3aVAADZY)<br/>	
-	Liquid Physics 2D was a plugin asset for Unity I wrote which allowed developers to easily implement highly optimised 2D particle phsyics in their games. I made this while working for the company 'Physical Liquid'. 
+	Liquid Physics 2D was a plugin asset sold on the Unity asset store which allowed developers to easily implement highly optimised 2D particle phsyics in their games. I made this while working for the company 'Physical Liquid'.
 	
 * LazerGrrl
 
