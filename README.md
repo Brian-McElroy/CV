@@ -1,6 +1,6 @@
 # Brian McElroy
 
-## Some examples of my work.
+## Some examples of my work
 
 * KnowCLT
 
@@ -50,14 +50,14 @@
 	Another educational game for 'Legends of Learning'. This game teaches students about the properties of waves.	
 	This game had to be hyper-optimised, it basically had to run on a potato.
 		
-## Background.
+## Background
 
 I have a level 8 bachelor's degree in architecture from DIT, and have worked as an architect.
 In 2013 I got a level 8 higher diploma in computing from DIT and began my career in game programming.
 I worked as a lead dev for 'Physical Liquid' and 'Kitman Labs'.
 Currently, I do contracts and make my own games for fun.
 
-## Skills.
+## Skills
 
 In my game-dev career, many of the projects I worked on involved novel problems, for which I successfully implemented groundbreaking solutions. Based on my past experiences and performance, I feel happy to take on any challenge.
 
@@ -73,13 +73,13 @@ I have experience working as part of a team, in an enviromnent using the latest 
 
 My core skills are...
 
-* Game design.
-* Game programming.
-* Unity expert.
-* Project management.
+* Game design
+* Game programming
+* Unity expert
+* Project management
 
 I also have some competence in the following...
 
-* Creating 2D art for games in Illustrator / Photoshop.
-* Creating sound effects and music for games.
-* Creating 3D meshes for games.
+* Creating 2D art for games in Illustrator / Photoshop
+* Creating sound effects and music for games
+* Creating 3D meshes for games
