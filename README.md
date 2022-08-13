@@ -23,30 +23,30 @@
 	
 * Capture
 
-	[Video](https://youtu.be/30xvRLjY0jU)
+	[Video](https://youtu.be/30xvRLjY0jU)<br/>
 	Kitman Capture prompts and guides athletes through a very specific series of musculo-skeletal movements and records their 3D body geometry as they do so. This data is then used in  statistical analysis for the purpose of injury prevention.
 	I was the lead programmer for the Capture client while working at [Kitman Labs](https://www.kitmanlabs.com/).
    
 * Liquid Physics 2D
 	
-	[Video](https://youtu.be/9qU3aVAADZY) 
+	[Video](https://youtu.be/9qU3aVAADZY)<br/>	
 	Liquid Physics 2D was a plugin asset for Unity I wrote which allowed developers to easily implement highly optimised 2D particle phsyics in their games. I made this while working for the company 'Physical Liquid'. 
 	
 * LazerGrrl
 
-	[Video](https://youtu.be/Zr0A8VcBnYk)
+	[Video](https://youtu.be/Zr0A8VcBnYk)<br/>	
 	An online multiplayer WebGL / PC / Android game I made and released for free. It got a good reception and I am currently working on a massively updated version to be released on Steam.
 	
 * Wave Master
 
-	[Video](https://youtu.be/F8nCd9Dje20)
+	[Video](https://youtu.be/F8nCd9Dje20)<br/>
 	A simple educational game which teaches about the properties of waves I made on contract for [Legends of Learning.](https://www.legendsoflearning.com/)
 	This game had to be hyper-optimised, it basically had to run on a potato.
 	Desiging educational games for Legends of Learning was a challenge as, as well as having to design a fun game, there were many specific design constraints in what form the game took and exactly which learning objectives it taught.
 	
 * Cube Collector
 
-	[Video](https://youtu.be/RwbznCCA-Do)
+	[Video](https://youtu.be/RwbznCCA-Do)<br/>
 	Another educational game for 'Legends of Learning'. This teaches about volume and unit cubes.
 	
 ## Background.
