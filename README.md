@@ -38,18 +38,18 @@
 	[Video](https://youtu.be/Zr0A8VcBnYk)<br/>	
 	An online multiplayer WebGL / PC / Android game I made and released for free. It got a good reception and I am currently working on a massively updated version to be released on Steam.
 	
-* Wave Master
-
-	[Video](https://youtu.be/F8nCd9Dje20)<br/>
-	A simple educational game which teaches about the properties of waves I made on contract for [Legends of Learning.](https://www.legendsoflearning.com/)
-	This game had to be hyper-optimised, it basically had to run on a potato.
-	Desiging educational games for Legends of Learning was a challenge as, as well as having to design a fun game, there were many specific design constraints in what form the game took and exactly which learning objectives it taught.
-	
 * Cube Collector
 
 	[Video](https://youtu.be/RwbznCCA-Do)<br/>
-	Another educational game for 'Legends of Learning'. This teaches about volume and unit cubes.
-	
+	A simple educational game which teaches students about volume and the unit cube. I made this on contract for the client [Legends of Learning.](https://www.legendsoflearning.com/) 	
+	Desiging educational games for Legends of Learning was challenging: as well as having to design a fun game, there were many specific design constraints in what form the game took and exactly which learning objectives it had to teach.
+
+* Wave Master
+
+	[Video](https://youtu.be/F8nCd9Dje20)<br/>
+	Another educational game for 'Legends of Learning'. This game teaches students about the properties of waves.	
+	This game had to be hyper-optimised, it basically had to run on a potato.
+		
 ## Background.
 
 I have a degree in architecture, and have worked as an architect.
@@ -69,7 +69,7 @@ As an architect, I was trained to present my ideas, and *sell* them to the team.
 
 Another skill I developed while working as an architect was project management. I can manage myself or a team to ensure that a software project gets completed on time and on budget, with a resulting product that is fit for purpose.
 
-I have experience working in an enviromnent using the latest good software writing practices. Git, Scrum, Peer-review, Testing, Documentation.  
+I have experience working as part of a team, in an enviromnent using the latest good software writing practices. Git, Scrum, Peer-review, Testing, Documentation.  
 
 My core skills are...
 
