@@ -36,7 +36,7 @@
 * LazerGrrl
 
 	[Video](https://youtu.be/Zr0A8VcBnYk)<br/>	
-	An online multiplayer WebGL / PC / Android game I made and released for free. It got a good reception and I am currently working on a massively updated version to be released on Steam.
+	An online multiplayer WebGL / Desktop / Mobile game I made and released for free. It got a good reception and I am currently working on a massively updated version to be released on Steam.
 	
 * Cube Collector
 
